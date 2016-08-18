@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+### Changed
+
+* [darwin/mas] Explicitly disallow `osx-sign.binaries` (#459)
+
 ## [7.6.0] - 2016-08-14
 
 ### Added
